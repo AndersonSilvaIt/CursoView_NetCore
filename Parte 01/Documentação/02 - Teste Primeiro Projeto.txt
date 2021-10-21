@@ -1,0 +1,6 @@
+Após informar o cdn, é criado o primeiro "Vue"
+
+onde é informado o elemento principal que ele irá trabalhar,
+no caso foi criado uma div com o id=app,
+
+e depois os dados que serão expostos no html  ({{ msg }})
