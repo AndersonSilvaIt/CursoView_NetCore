@@ -1,0 +1,10 @@
+Vue VS Code Extensions
+Vetur
+Vue Snippets
+Prettier
+Bracket Pair Colorizer (talves desinstale) ...
+Auto Rename
+JavaScript (ES6) code snippets
+
+Live Server
+Material Icon Theme
