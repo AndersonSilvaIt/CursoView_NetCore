@@ -4,3 +4,13 @@ onde é informado o elemento principal que ele irá trabalhar,
 no caso foi criado uma div com o id=app,
 
 e depois os dados que serão expostos no html  ({{ msg }})
+
+
+Quando utilizo o Bind, não posso usar as chaves
+
+base usar o v-bind:src  (src imagem)
+v-bind:title  (título da imagem) ...
+
+o v-bind pode ser reduzido com  : 
+
+v-bind:src="Teste"  --> :src="teste"
